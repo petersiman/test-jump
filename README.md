@@ -1,3 +1,3 @@
 # test-jump
 
-http://mobile-assets.wandera.co.uk/jupmstart/v2
+http://mobile-assets.wandera.co.uk/jumpstart/v2
